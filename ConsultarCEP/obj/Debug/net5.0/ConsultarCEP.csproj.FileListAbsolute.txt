@@ -1,0 +1,270 @@
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\appsettings.json
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.exe
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.deps.json
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.runtimeconfig.json
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.runtimeconfig.dev.json
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.pdb
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.Views.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.Views.pdb
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Evolve.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.csproj.AssemblyReference.cache
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.AssemblyInfoInputs.cache
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.AssemblyInfo.cs
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.RazorAssemblyInfo.cache
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.RazorAssemblyInfo.cs
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\scopedcss\bundle\ConsultarCEP.styles.css
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\staticwebassets\ConsultarCEP.StaticWebAssets.Manifest.cache
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\staticwebassets\ConsultarCEP.StaticWebAssets.Pack.cache
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\staticwebassets\msbuild.ConsultarCEP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\staticwebassets\msbuild.build.ConsultarCEP.props
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ConsultarCEP.props
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ConsultarCEP.props
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.TagHelpers.input.cache
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.TagHelpers.output.cache
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.RazorCoreGenerate.cache
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.RazorTargetAssemblyInfo.cache
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.RazorTargetAssemblyInfo.cs
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.Views.pdb
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.csproj.CopyComplete
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\refint\ConsultarCEP.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.pdb
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.genruntimeconfig.cache
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ref\ConsultarCEP.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wesle\Desktop\TesteCEP\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\appsettings.Development.json
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\appsettings.json
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.exe
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.deps.json
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.runtimeconfig.json
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.runtimeconfig.dev.json
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.pdb
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.Views.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.Views.pdb
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Evolve.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.csproj.AssemblyReference.cache
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.AssemblyInfoInputs.cache
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.AssemblyInfo.cs
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.csproj.CoreCompileInputs.cache
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.RazorAssemblyInfo.cache
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.RazorAssemblyInfo.cs
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\scopedcss\bundle\ConsultarCEP.styles.css
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\staticwebassets\ConsultarCEP.StaticWebAssets.Manifest.cache
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\staticwebassets\ConsultarCEP.StaticWebAssets.Pack.cache
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\staticwebassets\msbuild.ConsultarCEP.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\staticwebassets\msbuild.build.ConsultarCEP.props
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ConsultarCEP.props
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ConsultarCEP.props
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.TagHelpers.input.cache
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.TagHelpers.output.cache
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.RazorCoreGenerate.cache
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.RazorTargetAssemblyInfo.cache
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.RazorTargetAssemblyInfo.cs
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.Views.pdb
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.csproj.CopyComplete
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\refint\ConsultarCEP.dll
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.pdb
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.genruntimeconfig.cache
+D:\Personal Projects\Personal Project\Consulta CEP\ConsultaCEP-C#\ConsultarCEP\ConsultarCEP\obj\Debug\net5.0\ref\ConsultarCEP.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\appsettings.Development.json
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\appsettings.json
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.exe
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.deps.json
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.runtimeconfig.json
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.runtimeconfig.dev.json
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.pdb
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.Views.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\ConsultarCEP.Views.pdb
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Evolve.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Serilog.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Serilog.AspNetCore.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Serilog.Sinks.File.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.csproj.AssemblyReference.cache
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.AssemblyInfoInputs.cache
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.AssemblyInfo.cs
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.csproj.CoreCompileInputs.cache
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.RazorAssemblyInfo.cache
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.RazorAssemblyInfo.cs
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\scopedcss\bundle\ConsultarCEP.styles.css
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\staticwebassets\ConsultarCEP.StaticWebAssets.Manifest.cache
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\staticwebassets\ConsultarCEP.StaticWebAssets.Pack.cache
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\staticwebassets\msbuild.ConsultarCEP.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\staticwebassets\msbuild.build.ConsultarCEP.props
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ConsultarCEP.props
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ConsultarCEP.props
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.TagHelpers.input.cache
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.TagHelpers.output.cache
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.RazorCoreGenerate.cache
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.RazorTargetAssemblyInfo.cache
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.RazorTargetAssemblyInfo.cs
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.Views.pdb
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.csproj.CopyComplete
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\refint\ConsultarCEP.dll
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.pdb
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ConsultarCEP.genruntimeconfig.cache
+D:\Personal Projects\Personal Project\ConsultarCEP- C#\ConsultarCEP\obj\Debug\net5.0\ref\ConsultarCEP.dll
